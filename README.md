@@ -25,3 +25,6 @@ Dataset has 4 attributes and 1 label column, the data of the attributes are floa
 
 # Inference Drawn:-
 The Optimum number of clusters to be formed is **3**
+
+youtube link:-
+https://youtu.be/up058j4Q6mU
